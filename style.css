@@ -43,11 +43,11 @@ h1 {
     letter-spacing: -1.3vw;
   }
 }
-.navbar{
+.my-nav{
   padding-top: 0px;
   padding-bottom: 0px;
-  box-shadow: -1px 52px 10px -1px rgba(#48a840);
-  
+  box-shadow: 0 0 15px #48a840, 0 0 30px #48a840;
+ 
  
 }
 
