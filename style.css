@@ -46,7 +46,7 @@ h1 {
 .my-nav{
   padding-top: 0px;
   padding-bottom: 0px;
-  box-shadow: 0 0 15px #48a840, 0 0 30px #48a840;
+  box-shadow: 0 0 15px #48a840, 0 0 30px#48a840;
  
  
 }
